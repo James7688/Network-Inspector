@@ -20,4 +20,4 @@ Network Traffic Inspector is a Python application that inspects network traffic,
 
 ```bash
 git clone https://github.com/James7688/Network-Inspector.git
-cd network_inspector
+cd Network-Inspector
