@@ -21,3 +21,10 @@ Network Traffic Inspector is a Python application that inspects network traffic,
 ```bash
 git clone https://github.com/James7688/Network-Inspector.git
 cd Network-Inspector
+```
+
+### STEP 2: Download Npcap
+[Download Npcap here](https://npcap.com/#download)
+
+## CREDIT
+Quy Anh Nguyen - Developer
