@@ -26,5 +26,11 @@ cd Network-Inspector
 ### STEP 2: Download Npcap
 [Download Npcap here](https://npcap.com/#download)
 
+### STEP 3: Run it
+
+```bash
+python3 main.py
+```
+
 ## CREDIT
 Quy Anh Nguyen - Developer
